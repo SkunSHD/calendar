@@ -1,6 +1,6 @@
 Test task.
 
-Direkt Link: 
+Direkt Link: http://skunshd.github.io/
 
 This work supports:
 - Add, edit, delete events
